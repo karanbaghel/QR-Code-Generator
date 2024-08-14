@@ -1,0 +1,15 @@
+.qr-code-container {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.qr-code {
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
